@@ -4,6 +4,6 @@ cl_crosshairstyle 4;cl_crosshairsize 1;cl_crosshairgap -3;cl_crosshairdot 0;cl_c
 
 bind mwheelup +jump;unbind mwheeldown;bind capslock r_cleardecals;cl_radar_always_centered 0;cl_radar_scale 0.4;net_graph 1;net_graphproportionalfont 0;cl_disablefreezecam 1;muzzleflash_light 0;voice_scale 0.1;volume 0.1;snd_deathcamera_volume 0
 
-rate 786432;cl_interp 0.031000;cl_interp_ratio 2;cl_cmdrate 128;cl_updaterate 128;fps_max 300;alias "+jumpthrow" "+jump;-attack"; alias "-jumpthrow" "-jump"; bind z "+jumpthrow"
+rate 786432;cl_interp 0.031000;cl_interp_ratio 2;cl_cmdrate 128;cl_updaterate 128;fps_max 0;alias "+jumpthrow" "+jump;-attack"; alias "-jumpthrow" "-jump"; bind z "+jumpthrow"; sensitivity 2.81; volume 0.45; zoom_sensitiivity_mouse 0.9
 
 
