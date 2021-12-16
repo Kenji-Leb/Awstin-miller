@@ -6,4 +6,4 @@ bind mwheelup +jump;unbind mwheeldown;bind capslock r_cleardecals;cl_radar_alway
 
 rate 786432;cl_interp 0.031000;cl_interp_ratio 2;cl_cmdrate 128;cl_updaterate 128;fps_max 0;alias "+jumpthrow" "+jump;-attack"; alias "-jumpthrow" "-jump"; bind z "+jumpthrow"; sensitivity 2.81; volume 0.45; zoom_sensitiivity_mouse 0.9
 
-
+bind z "playerradio deathcry Moan”;r_cleardecals
